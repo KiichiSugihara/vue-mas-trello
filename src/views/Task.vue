@@ -1,12 +1,9 @@
 <template>
-  <div class="task-view">
-
-  </div>
+  <div class="task-view"></div>
 </template>
 
 <script>
-export default {
-}
+export default {};
 </script>
 
 <style>
